@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-mdw9vs.sidratnam.com/sitemap.xml
